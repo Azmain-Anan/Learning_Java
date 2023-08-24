@@ -1,3 +1,4 @@
+package JavaPrac;
 
 public class FirstProgram {
 

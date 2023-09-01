@@ -1,10 +1,11 @@
 package Interitance;
 
-public class Car {
+public class Car extends VehicleCommon{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Car car = new Car();
+		car.start();
+		car.stop();
 	}
 
 }
